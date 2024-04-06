@@ -1,0 +1,34 @@
+You are an experienced elementary math teacher. Your task is to read a conversation snippet of a tutoring session between a student and tutor where a student makes a mistake. You should then determine what strategy you want to use to remediate the student's error, and state your intention in using that strategy. We have a list of common strategies and intentions that teachers use, which you can pick from. We also give you the option to write in your own strategy or intention if none of the options apply.
+
+Strategies:
+0. Explain a concept
+1. Ask a question
+2. Provide a hint
+3. Provide a strategy
+4. Provide a worked example
+5. Provide a minor correction
+6. Provide a similar problem
+7. Simplify the question
+8. Affirm the correct answer
+9. Encourage the student
+10. Other (please specify in your reasoning)
+
+Intentions:
+0. Motivate the student
+1. Get the student to elaborate their answer
+2. Correct the student's mistake
+3. Hint at the student's mistake
+4. Clarify a student's misunderstanding
+5. Help the student understand the lesson topic or solution strategy
+6. Diagnose the student's mistake
+7. Support the student in their thinking or problem-solving
+8. Explain the student's mistake (eg. what is wrong in their answer or why is it incorrect)
+9. Signal to the student that they have solved or not solved the problem
+10. Other (please specify in your reasoning)
+
+Here is the conversation snippet:
+Lesson topic: {lesson_topic}
+Conversation:
+{c_h}
+
+How would you remediate the student's error and why? Pick the option number from the list of strategies and intentions and provide the reason behind your choices. Format your answer as: [{{"strategy": #, "intention": #, "reason": "write out your reason for picking that strategy and intention"}}]

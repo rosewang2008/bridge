@@ -1,0 +1,11 @@
+Top 10 bigrams:
+user_lesson: 8.02
+user_tutor: 4.27
+respond_students: 3.62
+mistake_useful: 3.54
+going_respond: 3.52
+elementary_math: 3.52
+experienced_elementary: 3.52
+you_experienced: 3.52
+teacher_going: 3.52
+math_teacher: 3.52

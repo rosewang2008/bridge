@@ -1,0 +1,5741 @@
+[
+    {
+        "c_id": "6315993_39",
+        "lesson_topic": "3.8B.Pictographs",
+        "c_h": [
+            {
+                "id": 39,
+                "text": "Add together all the glasses in the pictograph.",
+                "time": "20:27",
+                "user": "tutor"
+            },
+            {
+                "id": 40,
+                "text": "Figure out how many glasses Ayako drank each day.",
+                "time": "21:15",
+                "user": "tutor"
+            },
+            {
+                "id": 41,
+                "text": "What is your final answer?",
+                "time": "25:09",
+                "user": "tutor"
+            },
+            {
+                "id": 42,
+                "text": "30",
+                "time": "26:35",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 43,
+                "text": "That was a good try.",
+                "time": "26:43",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "Here, 7 + 3 + 8 + 4 + 9 = 31.",
+                "time": "26:58",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "Excellent work on the whiteboard, plus 2 points for your good work.",
+                "time": "27:26",
+                "user": "tutor"
+            },
+            {
+                "id": 46,
+                "text": "Do you understand that step?",
+                "time": "27:34",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "That is so close! Can you double-check your work?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "That is so close! Can you double-check your work?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "oh it's 31",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct, great job looking over your work and finding your mistake!",
+                "is_revised": true
+            }
+        ],
+        "e": "careless",
+        "z_what": "ask_question",
+        "z_why": "hint_mistake"
+    },
+    {
+        "c_id": "4139067_72",
+        "lesson_topic": "4.4A.Subtracting Multi-Digit Numbers",
+        "c_h": [
+            {
+                "id": 72,
+                "text": "soory",
+                "time": "53:45",
+                "user": "student"
+            },
+            {
+                "id": 73,
+                "text": "It's okay, [STUDENT].",
+                "time": "54:29",
+                "user": "tutor"
+            },
+            {
+                "id": 74,
+                "text": "Is this your final answer, [STUDENT]?",
+                "time": "56:03",
+                "user": "tutor"
+            },
+            {
+                "id": 75,
+                "text": "yes",
+                "time": "56:12",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 76,
+                "text": "Nice effort! I can see from your approach that you really understand the concept here.",
+                "time": "56:49",
+                "user": "tutor"
+            },
+            {
+                "id": 77,
+                "text": "There is just one piece we need to look at again.",
+                "time": "56:53",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "When we subtract 9 from 5, we need to borrow from the number to the left of the 5. So the 3 becomes a 2.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "When we subtract 9 from 5, we need to borrow from the number to the left of the 5. So the 3 becomes a 2.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Oh yeah! I forgot about that",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Now that you know, could you give it another try?",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "provide_hint",
+        "z_why": "correct_mistake"
+    },
+    {
+        "c_id": "4294755_60",
+        "lesson_topic": "4.5C.Area",
+        "c_h": [
+            {
+                "id": 60,
+                "text": "Excellent!",
+                "time": "30:57",
+                "user": "tutor"
+            },
+            {
+                "id": 61,
+                "text": "A = l x w, A stands for area, l stands for length, and w stands for width.",
+                "time": "31:06",
+                "user": "tutor"
+            },
+            {
+                "id": 62,
+                "text": "What is the length of this rectangle?",
+                "time": "31:09",
+                "user": "tutor"
+            },
+            {
+                "id": 63,
+                "text": "24",
+                "time": "31:23",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 64,
+                "text": "Please recheck.",
+                "time": "31:53",
+                "user": "tutor"
+            },
+            {
+                "id": 65,
+                "text": "What is the length of this rectangle?",
+                "time": "31:58",
+                "user": "tutor"
+            },
+            {
+                "id": 66,
+                "text": "86 feet.",
+                "time": "32:03",
+                "user": "tutor"
+            },
+            {
+                "id": 67,
+                "text": "What is the width of this rectangle?",
+                "time": "32:13",
+                "user": "tutor"
+            },
+            {
+                "id": 68,
+                "text": "24 feet.",
+                "time": "32:17",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great job! What is the width?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great job! What is the width?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "86",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great",
+                "is_revised": true
+            }
+        ],
+        "e": "imprecise",
+        "z_what": "affirm_correct_answer",
+        "z_why": "motivate_student"
+    },
+    {
+        "c_id": "6165060_89",
+        "lesson_topic": "4.6D.Classifying 2D Figures",
+        "c_h": [
+            {
+                "id": 89,
+                "text": "When we look at the number of sides, we will see that our shape has 6 sides.",
+                "time": "34:23",
+                "user": "tutor"
+            },
+            {
+                "id": 90,
+                "text": "That's the way!",
+                "time": "34:46",
+                "user": "tutor"
+            },
+            {
+                "id": 91,
+                "text": "What is the number of sides in group 2?",
+                "time": "35:23",
+                "user": "tutor"
+            },
+            {
+                "id": 92,
+                "text": "2",
+                "time": "35:37",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 93,
+                "text": "I appreciate your answer. But it seems not correct.",
+                "time": "35:47",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Good try! Let's try to count the number of sides and points in each of the shape",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Good try! Let's try to count the number of sides and points in each of the shape",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "5 points",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great! Then this shape also has 5 sides.",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_strategy",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "2879185_27",
+        "lesson_topic": "3.4B.Rounding Whole Numbers",
+        "c_h": [
+            {
+                "id": 27,
+                "text": "Let's get started.",
+                "time": "14:45",
+                "user": "tutor"
+            },
+            {
+                "id": 28,
+                "text": "We have to round 2,458 to the nearest hundred.",
+                "time": "15:00",
+                "user": "tutor"
+            },
+            {
+                "id": 29,
+                "text": "Is that your final answer?",
+                "time": "15:12",
+                "user": "tutor"
+            },
+            {
+                "id": 30,
+                "text": "yes",
+                "time": "15:24",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 31,
+                "text": "That was a good try.",
+                "time": "15:35",
+                "user": "tutor"
+            },
+            {
+                "id": 32,
+                "text": "1 point for that.",
+                "time": "15:41",
+                "user": "tutor"
+            },
+            {
+                "id": 33,
+                "text": "Let me explain it to you.",
+                "time": "15:52",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Good try! But your answer is incorrect - since we want to round to the hundred we should look at the hundreds place. Can you tell me what number is in the hundreds place?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Good try! But your answer is incorrect - since we want to round to the hundred we should look at the hundreds place. Can you tell me what number is in the hundreds place?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "4",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great job - now we'll want to look at the number to the right of the 4 - that number should show us what to round to.",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "correct_mistake"
+    },
+    {
+        "c_id": "4106600_32",
+        "lesson_topic": "3.3F.Understanding Equivalent Fractions",
+        "c_h": [
+            {
+                "id": 32,
+                "text": "I was facing some technical issues.",
+                "time": "37:30",
+                "user": "tutor"
+            },
+            {
+                "id": 33,
+                "text": " !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+                "time": "37:56",
+                "user": "student"
+            },
+            {
+                "id": 34,
+                "text": "Is your final answer 1/5 < 1/2?",
+                "time": "38:40",
+                "user": "tutor"
+            },
+            {
+                "id": 35,
+                "text": "yes!!!!!!!",
+                "time": "38:51",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 36,
+                "text": "That was a good try.",
+                "time": "39:02",
+                "user": "tutor"
+            },
+            {
+                "id": 37,
+                "text": "1 point for trying this question.",
+                "time": "39:12",
+                "user": "tutor"
+            },
+            {
+                "id": 38,
+                "text": "I will explain it to you.",
+                "time": "39:19",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great job that is correct!",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great job that is correct!",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "ok",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Let's go on to the next question",
+                "is_revised": true
+            }
+        ],
+        "e": "imprecise",
+        "z_what": "affirm_correct_answer",
+        "z_why": "signal_goal"
+    },
+    {
+        "c_id": "2879167_39",
+        "lesson_topic": "3.4B.Rounding Whole Numbers",
+        "c_h": [
+            {
+                "id": 39,
+                "text": "The 100s position is underlined in blue.",
+                "time": "21:58",
+                "user": "tutor"
+            },
+            {
+                "id": 40,
+                "text": "We are asked to round the value 1551 to the nearest 100.",
+                "time": "22:33",
+                "user": "tutor"
+            },
+            {
+                "id": 41,
+                "text": "The 5 in the hundreds column should\u00a0ROUND UP\u00a0to which number?",
+                "time": "22:42",
+                "user": "tutor"
+            },
+            {
+                "id": 42,
+                "text": "1500",
+                "time": "23:00",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 43,
+                "text": "That was a very good try!",
+                "time": "23:10",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "Plus 1 point for you.",
+                "time": "23:15",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "Your answer is incorrect.",
+                "time": "23:29",
+                "user": "tutor"
+            },
+            {
+                "id": 46,
+                "text": "Let me help you with that.",
+                "time": "23:33",
+                "user": "tutor"
+            },
+            {
+                "id": 47,
+                "text": "We round the number up to the nearest hundred if the last two digits in the number are 50 or above.",
+                "time": "23:54",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Hmm, not quite. Do you know when we're supposed to round up and when we're supposed to round down?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Hmm, not quite. Do you know when we're supposed to round up and when we're supposed to round down?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "We round up if the next number is bigger than 5",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ah, close. We round up if the next number if bigger than 4, and we round down otherwise.",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "ask_question",
+        "z_why": "diagnose_mistake"
+    },
+    {
+        "c_id": "6404706_41",
+        "lesson_topic": "5.2A.Place Value",
+        "c_h": [
+            {
+                "id": 41,
+                "text": "Go through the question once.",
+                "time": "15:28",
+                "user": "tutor"
+            },
+            {
+                "id": 42,
+                "text": "In this question, we need to find the value of the number 10 to the exponent 5.",
+                "time": "16:05",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "Would you like to give this question a try?",
+                "time": "16:18",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "is it 10.05??",
+                "time": "16:55",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 45,
+                "text": "That's a good try.",
+                "time": "17:12",
+                "user": "tutor"
+            },
+            {
+                "id": 46,
+                "text": "Plus 1 point for that good try.",
+                "time": "17:26",
+                "user": "tutor"
+            },
+            {
+                "id": 47,
+                "text": "Let me explain it to you.",
+                "time": "17:35",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "If a number has an exponent, it means we multiply that number by itself. 10 is being multiplied by itself 5 times. How would you write 10 being multipled by itself 5 times?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "If a number has an exponent, it means we multiply that number by itself. 10 is being multiplied by itself 5 times. How would you write 10 being multipled by itself 5 times?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "10 * 10 * 10* 10* 10",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Good! And remember our shortcut. ",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "And do you remember our shortcut?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Yes, Put 5 zeros behind the 1 and that will be your answer.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct! So the answer is 100,000.",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "explain_concept",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4104703_80",
+        "lesson_topic": "5.3A.Multi-Digit Division with Two-Digit Divisors",
+        "c_h": [
+            {
+                "id": 80,
+                "text": "Have a look at the whiteboard.",
+                "time": "41:25",
+                "user": "tutor"
+            },
+            {
+                "id": 81,
+                "text": "alright",
+                "time": "41:57",
+                "user": "student"
+            },
+            {
+                "id": 82,
+                "text": "How many times does 15 go into 45?",
+                "time": "42:13",
+                "user": "tutor"
+            },
+            {
+                "id": 83,
+                "text": "1",
+                "time": "42:37",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 84,
+                "text": "That's incorrect.",
+                "time": "43:00",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Let's try to solve this problem together. There are 3 groups of 15 that go into 45. We check our answers by multiplying 15 times 3, which is 45. Do you understand?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Let's try to solve this problem together. There are 3 groups of 15 that go into 45. We check our answers by multiplying 15 times 3, which is 45. Do you understand?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Yes",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Let's try another one.",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "explain_concept",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4055603_15",
+        "lesson_topic": "3.2B.Multiples of Ten",
+        "c_h": [
+            {
+                "id": 15,
+                "text": "Let's move on to the question.",
+                "time": "10:06",
+                "user": "tutor"
+            },
+            {
+                "id": 16,
+                "text": "In this question, we need to find how many total legos are in the bag.",
+                "time": "10:44",
+                "user": "tutor"
+            },
+            {
+                "id": 17,
+                "text": "How many bags does max have?",
+                "time": "11:17",
+                "user": "tutor"
+            },
+            {
+                "id": 18,
+                "text": "13",
+                "time": "11:39",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 19,
+                "text": "That's incorrect.",
+                "time": "11:51",
+                "user": "tutor"
+            },
+            {
+                "id": 20,
+                "text": "We have to multiply them.",
+                "time": "12:05",
+                "user": "tutor"
+            },
+            {
+                "id": 21,
+                "text": "Good job! Keep going.",
+                "time": "12:34",
+                "user": "tutor"
+            },
+            {
+                "id": 22,
+                "text": "Let me explain it to you.",
+                "time": "14:06",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "We find the total number of bags by multiplying. If there are 2 bags and each bag has 10 legos, how many legos are in the 2 bags?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "We find the total number of bags by multiplying. If there are 2 bags and each bag has 10 legos, how many legos are in the 2 bags?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "20",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Good job! That is correct.",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "provide_similar_problem",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "2939758_51",
+        "lesson_topic": "4.6B.Symmetry",
+        "c_h": [
+            {
+                "id": 51,
+                "text": "When looking at symmetry, we have to look at the overall shape, but also the design within the shape.",
+                "time": "14:43",
+                "user": "tutor"
+            },
+            {
+                "id": 52,
+                "text": "We can see that this shape is a line of symmetry alongeach diagonal line.",
+                "time": "15:13",
+                "user": "tutor"
+            },
+            {
+                "id": 53,
+                "text": "Where is the line of symmetry in drawing #2?",
+                "time": "15:28",
+                "user": "tutor"
+            },
+            {
+                "id": 54,
+                "text": "like a kite.",
+                "time": "15:55",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 55,
+                "text": "That was a good try.",
+                "time": "16:09",
+                "user": "tutor"
+            },
+            {
+                "id": 56,
+                "text": "Plus 1 point for your effort.",
+                "time": "16:15",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "You're correct that the shape is a kite! Where would it's line of symmetry be?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "You're correct that the shape is a kite! Where would it's line of symmetry be?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "From point to point",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great! Can you elaborate a little? Which points?",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "encourage_student",
+        "z_why": "signal_goal"
+    },
+    {
+        "c_id": "4054686_22",
+        "lesson_topic": "3.1A.Bar Graphs",
+        "c_h": [
+            {
+                "id": 22,
+                "text": "How can we write and solve an addition problem to determine how many total students voted for their favorite color?",
+                "time": "21:38",
+                "user": "tutor"
+            },
+            {
+                "id": 23,
+                "text": "wait i now the total",
+                "time": "23:35",
+                "user": "student"
+            },
+            {
+                "id": 24,
+                "text": "What is the total?",
+                "time": "24:36",
+                "user": "tutor"
+            },
+            {
+                "id": 25,
+                "text": "i got wrong i got 98",
+                "time": "25:18",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 26,
+                "text": "That's incorrect.",
+                "time": "25:41",
+                "user": "tutor"
+            },
+            {
+                "id": 27,
+                "text": "The final answer is 39 students.",
+                "time": "26:12",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! Let's talk about how to read the graph. If one bar has 12, one has 20, and one has 7 you can add those to get the total number of students who voted.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! Let's talk about how to read the graph. If one bar has 12, one has 20, and one has 7 you can add those to get the total number of students who voted.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "oh ok",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "So what would be the total number of students who voted?",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_strategy",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4145096_55",
+        "lesson_topic": "5.2A.Place Value",
+        "c_h": [
+            {
+                "id": 55,
+                "text": "okay.",
+                "time": "36:38",
+                "user": "student"
+            },
+            {
+                "id": 56,
+                "text": "From the farthest right place value all the way up to the right of the 1, there are 4 jumps.\u00a0 So, the exponent would be 10^4.",
+                "time": "37:04",
+                "user": "tutor"
+            },
+            {
+                "id": 57,
+                "text": "Did you get it?",
+                "time": "37:11",
+                "user": "tutor"
+            },
+            {
+                "id": 58,
+                "text": "yea kinda.",
+                "time": "37:41",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 59,
+                "text": "Do you mind explaining which part you do not quite understanding?",
+                "time": "38:05",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great - would you mind explaining so I can make sure you understand?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great - would you mind explaining so I can make sure you understand?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "The number is 4 away from the right so that's why the exponent is 4",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "ok great!",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "ask_question",
+        "z_why": "elaborate_answer"
+    },
+    {
+        "c_id": "2963654_50",
+        "lesson_topic": "4.4E.Multiplication and Division Word Problems",
+        "c_h": [
+            {
+                "id": 50,
+                "text": "Now, let's move on to next question.",
+                "time": "22:50",
+                "user": "tutor"
+            },
+            {
+                "id": 51,
+                "text": "Please don't erase any content from the whiteboard.",
+                "time": "23:45",
+                "user": "tutor"
+            },
+            {
+                "id": 52,
+                "text": "Which operation do we need to perform to solve this question?",
+                "time": "24:09",
+                "user": "tutor"
+            },
+            {
+                "id": 53,
+                "text": "divieson",
+                "time": "24:31",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 54,
+                "text": "That was a good try.",
+                "time": "24:54",
+                "user": "tutor"
+            },
+            {
+                "id": 55,
+                "text": "Please read the question carefully.",
+                "time": "25:05",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Why do you think it's division?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Why do you think it's division?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Because if we want to figure out how many hours per night the sleep you would divide ",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Careful, the problem is asking about total sleep for the week, not per night.",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "elaborate_answer"
+    },
+    {
+        "c_id": "2976728_100",
+        "lesson_topic": "2.2A.Place Value",
+        "c_h": [
+            {
+                "id": 100,
+                "text": "ok",
+                "time": "28:02",
+                "user": "student"
+            },
+            {
+                "id": 101,
+                "text": "ok",
+                "time": "28:25",
+                "user": "student"
+            },
+            {
+                "id": 102,
+                "text": "Is that your final answer?",
+                "time": "28:32",
+                "user": "tutor"
+            },
+            {
+                "id": 103,
+                "text": "yes",
+                "time": "28:41",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 104,
+                "text": "Good effort.",
+                "time": "28:51",
+                "user": "tutor"
+            },
+            {
+                "id": 105,
+                "text": "Please read the question once again.",
+                "time": "29:01",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "What was the first step you took to get the answer? Can you show me on the whiteboard?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "What was the first step you took to get the answer? Can you show me on the whiteboard?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "sure",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ok that's the correct first step, you are off to a good start! What's the second step?",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "elaborate_answer"
+    },
+    {
+        "c_id": "6377808_13",
+        "lesson_topic": "5.4H.Volume of Composite Rectangular Prisms (Review) - 2",
+        "c_h": [
+            {
+                "id": 13,
+                "text": "Volume = Length * Width * height.",
+                "time": "06:53",
+                "user": "tutor"
+            },
+            {
+                "id": 14,
+                "text": "We are substituting the values in the formula.",
+                "time": "07:39",
+                "user": "tutor"
+            },
+            {
+                "id": 15,
+                "text": "What is the value of 5 * 2 * 4?",
+                "time": "08:05",
+                "user": "tutor"
+            },
+            {
+                "id": 16,
+                "text": "6",
+                "time": "08:20",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 17,
+                "text": "Sorry, your answer is incorrect.",
+                "time": "08:50",
+                "user": "tutor"
+            },
+            {
+                "id": 18,
+                "text": "Your scoreboard opens with 1 point for your active participation.",
+                "time": "08:56",
+                "user": "tutor"
+            },
+            {
+                "id": 19,
+                "text": "What is the value of 5 * 2?",
+                "time": "09:21",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Ah, not quite. Could you tell me how you got 6?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Ah, not quite. Could you tell me how you got 6?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "I guessed",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ok, no worries. The * just means multiplication. Since we are mainly learning how to find volume, please feel free to use a calculator to multiply",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Ok, I got 40",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yes, well done!",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_strategy",
+        "z_why": "support_thinking"
+    },
+    {
+        "c_id": "2962429_51",
+        "lesson_topic": "6.7B.Vocabulary of Algebra",
+        "c_h": [
+            {
+                "id": 51,
+                "text": "6-y",
+                "time": "42:05",
+                "user": "student"
+            },
+            {
+                "id": 52,
+                "text": "?",
+                "time": "42:08",
+                "user": "student"
+            },
+            {
+                "id": 53,
+                "text": "Is this your final answer?",
+                "time": "42:24",
+                "user": "tutor"
+            },
+            {
+                "id": 54,
+                "text": "no i mean x (x-3) + 5x",
+                "time": "43:10",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 55,
+                "text": "That was a good try.",
+                "time": "43:36",
+                "user": "tutor"
+            },
+            {
+                "id": 56,
+                "text": "Let me explain.",
+                "time": "43:39",
+                "user": "tutor"
+            },
+            {
+                "id": 57,
+                "text": "Let me explain it to you.",
+                "time": "43:47",
+                "user": "tutor"
+            },
+            {
+                "id": 58,
+                "text": "There is no product in t he equation.",
+                "time": "43:59",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "In arithmetic, the x means multiplication, but in algebra, the x represents a variable",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "So in this case, the x does not mean multiplication",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "In arithmetic, the x means multiplication, but in algebra, the x represents a variable",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "So in this case, the x does not mean multiplication",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "What's a variable?",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "In this case, it's a letter that represents a number.",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "explain_concept",
+        "z_why": "clarify_misunderstanding"
+    },
+    {
+        "c_id": "4104575_59",
+        "lesson_topic": "5.3K.Multipying Mixed Numbers",
+        "c_h": [
+            {
+                "id": 59,
+                "text": "yes",
+                "time": "35:30",
+                "user": "student"
+            },
+            {
+                "id": 60,
+                "text": "The width will be 2, so we will need to equal parts across the other side.",
+                "time": "36:23",
+                "user": "tutor"
+            },
+            {
+                "id": 61,
+                "text": "What is your final answer?",
+                "time": "37:17",
+                "user": "tutor"
+            },
+            {
+                "id": 62,
+                "text": "its 1/2",
+                "time": "37:47",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 63,
+                "text": "Good try, that's incorrect.",
+                "time": "38:17",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Can you show on the whiteboard how you got that?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Can you show on the whiteboard how you got that?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "sure",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "What was the first step you did?",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "elaborate_answer"
+    },
+    {
+        "c_id": "2916378_26",
+        "lesson_topic": "A2.7D.Factoring Polynomials",
+        "c_h": [
+            {
+                "id": 26,
+                "text": "The GCF is the variable 'b' as each term shares this factor.",
+                "time": "22:24",
+                "user": "tutor"
+            },
+            {
+                "id": 27,
+                "text": "Determine if the terms share a GCT and factor it out.",
+                "time": "22:44",
+                "user": "tutor"
+            },
+            {
+                "id": 28,
+                "text": "What is the constant term?",
+                "time": "22:49",
+                "user": "tutor"
+            },
+            {
+                "id": 29,
+                "text": "a",
+                "time": "23:06",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 30,
+                "text": "That was a very good try.",
+                "time": "23:14",
+                "user": "tutor"
+            },
+            {
+                "id": 31,
+                "text": "Here, the constant terms is -8.",
+                "time": "23:20",
+                "user": "tutor"
+            },
+            {
+                "id": 32,
+                "text": "The constant term is -8.*",
+                "time": "23:33",
+                "user": "tutor"
+            },
+            {
+                "id": 33,
+                "text": "Sorry for the typo.",
+                "time": "23:37",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Ah, not quite. Constant just means the number that doesn't have a letter after it.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Also, I apologize for the typo above. I meant to say GCF and not GCF.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Do you see any number in this expression that does not have a letter after it?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Ah, not quite. Constant just means the number that doesn't have a letter after it.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Also, I apologize for the typo above. I meant to say GCF and not GCF.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Do you see any number in this expression that does not have a letter after it?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Yes, the -8",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yup, that's the constant!",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "explain_concept",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "2964037_68",
+        "lesson_topic": "5.3C.Multi-Digit Division with Two-Digit Divisors",
+        "c_h": [
+            {
+                "id": 68,
+                "text": "The value of 22 times 4 is 88.",
+                "time": "42:58",
+                "user": "tutor"
+            },
+            {
+                "id": 69,
+                "text": "Next, we have to subtract the value of 103 - 88.",
+                "time": "44:05",
+                "user": "tutor"
+            },
+            {
+                "id": 70,
+                "text": "What is the value of 103 - 88?",
+                "time": "44:44",
+                "user": "tutor"
+            },
+            {
+                "id": 71,
+                "text": "4",
+                "time": "45:02",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 72,
+                "text": "Please recheck your answer.",
+                "time": "45:20",
+                "user": "tutor"
+            },
+            {
+                "id": 73,
+                "text": "No worries.",
+                "time": "46:55",
+                "user": "tutor"
+            },
+            {
+                "id": 74,
+                "text": "Let me help you with that part.",
+                "time": "47:08",
+                "user": "tutor"
+            },
+            {
+                "id": 75,
+                "text": "The value of 103 - 88 = 15.",
+                "time": "47:28",
+                "user": "tutor"
+            },
+            {
+                "id": 76,
+                "text": "Does that step make sense?",
+                "time": "47:44",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Ah, no that's not it. Since we're focused on learning long division, it's ok to use your calculator for the subtraction part",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Could you try 103 - 88 on your calculator?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Ah, no that's not it. Since we're focused on learning long division, it's ok to use your calculator for the subtraction part",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Could you try 103 - 88 on your calculator?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "15",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yes, that's it",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_strategy",
+        "z_why": "support_thinking"
+    },
+    {
+        "c_id": "2915969_42",
+        "lesson_topic": "5.3C.Multi-Digit Division with Two-Digit Divisors",
+        "c_h": [
+            {
+                "id": 42,
+                "text": "What times 13 gives us 39?",
+                "time": "15:43",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "ok",
+                "time": "17:12",
+                "user": "student"
+            },
+            {
+                "id": 44,
+                "text": "What is the value of 13 times 3?",
+                "time": "18:03",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "19",
+                "time": "18:23",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 46,
+                "text": "That's a good try.",
+                "time": "18:47",
+                "user": "tutor"
+            },
+            {
+                "id": 47,
+                "text": "Multiplication is also called as repeated addition.",
+                "time": "19:20",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! Remember that with multiplication you cannot just multiply the tens digit and the ones digit.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! Remember that with multiplication you cannot just multiply the tens digit and the ones digit.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Oh. oops. 39?",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "provide_hint",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4169950_31",
+        "lesson_topic": "4.2D.Rounding",
+        "c_h": [
+            {
+                "id": 31,
+                "text": "Here we go through the next question.",
+                "time": "19:48",
+                "user": "tutor"
+            },
+            {
+                "id": 32,
+                "text": "ok",
+                "time": "19:58",
+                "user": "student"
+            },
+            {
+                "id": 33,
+                "text": "What digit is in the thousands place?",
+                "time": "20:18",
+                "user": "tutor"
+            },
+            {
+                "id": 34,
+                "text": "8?",
+                "time": "20:50",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 35,
+                "text": "It was a good try.",
+                "time": "21:06",
+                "user": "tutor"
+            },
+            {
+                "id": 36,
+                "text": "Let me upload the place value chart for you.",
+                "time": "21:29",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Hmm, not quite. What makes you say 8?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Hmm, not quite. What makes you say 8?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "I don't know",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ok no worries. Here, let me upload a place value chart for you",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Do you see the thousands place in the place value chart?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Yeah",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Notice how it is 4 to the left of the decimal",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "In our question, what digit is 4 to the left of the decimal?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "5",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Well done!",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "Provided a visual aid. The student should then be able to see where the thousands place is.",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4247191_37",
+        "lesson_topic": "7.RP.2a.Proportional Relationship Graphs (Review) - 1.",
+        "c_h": [
+            {
+                "id": 37,
+                "text": "Do you understand what I did?",
+                "time": "38:38",
+                "user": "tutor"
+            },
+            {
+                "id": 38,
+                "text": "a little bit",
+                "time": "38:56",
+                "user": "student"
+            },
+            {
+                "id": 39,
+                "text": "Do you have any questions so far?",
+                "time": "39:10",
+                "user": "tutor"
+            },
+            {
+                "id": 40,
+                "text": "no",
+                "time": "39:26",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 41,
+                "text": "Do you mind explaining which part you are not quite understanding?",
+                "time": "39:29",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Ok great, let's try another problem!",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Ok great, let's try another problem!",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "ok",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Try this one",
+                "is_revised": true
+            }
+        ],
+        "e": "imprecise",
+        "z_what": "encourage_student",
+        "z_why": "signal_goal"
+    },
+    {
+        "c_id": "2928067_33",
+        "lesson_topic": "2.9A.Measuring Length",
+        "c_h": [
+            {
+                "id": 33,
+                "text": "Yes correct .",
+                "time": "29:22",
+                "user": "tutor"
+            },
+            {
+                "id": 34,
+                "text": "The other end of the crayon is at 4, which means the other end of the crayon      is at 4 centimeters.",
+                "time": "29:41",
+                "user": "tutor"
+            },
+            {
+                "id": 35,
+                "text": "What is the value of                 4 centimeters  - 0 centimeters ?",
+                "time": "30:40",
+                "user": "tutor"
+            },
+            {
+                "id": 36,
+                "text": "40",
+                "time": "31:24",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 37,
+                "text": "That was a good try. Please recheck your work",
+                "time": "32:09",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Hm, not quite. Our goal is to figure out how long the crayon is. Do you know how long the crayon is?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Hm, not quite. Our goal is to figure out how long the crayon is. Do you know how long the crayon is?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "4",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "That's right! The crayon is 4 centimeters long",
+                "is_revised": true
+            }
+        ],
+        "e": "misinterpret",
+        "z_what": "simplify_question",
+        "z_why": "clarify_misunderstanding"
+    },
+    {
+        "c_id": "2963376_36",
+        "lesson_topic": "2.9F.Area by Counting",
+        "c_h": [
+            {
+                "id": 36,
+                "text": "Let me know if you need any help along.",
+                "time": "20:22",
+                "user": "tutor"
+            },
+            {
+                "id": 37,
+                "text": "Read the question carefully.",
+                "time": "20:46",
+                "user": "tutor"
+            },
+            {
+                "id": 38,
+                "text": "Is that your final answer?",
+                "time": "21:55",
+                "user": "tutor"
+            },
+            {
+                "id": 39,
+                "text": "yes",
+                "time": "22:21",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 40,
+                "text": "That's good try.",
+                "time": "22:32",
+                "user": "tutor"
+            },
+            {
+                "id": 41,
+                "text": "But your answer is incorrect.",
+                "time": "22:39",
+                "user": "tutor"
+            },
+            {
+                "id": 42,
+                "text": "No to worry.",
+                "time": "23:09",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "Sorry for the typo.",
+                "time": "23:18",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "Not to worry.",
+                "time": "23:23",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "Let me explain this question to you.",
+                "time": "23:35",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! When we find area we can count the total number of boxes. How many total boxes are within the rectangle?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! When we find area we can count the total number of boxes. How many total boxes are within the rectangle?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "26",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great! Then the area is 26.",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_strategy",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "2950057_118",
+        "lesson_topic": "5.2A.Decimal Numbers",
+        "c_h": [
+            {
+                "id": 118,
+                "text": "Excellent work! Plus 1 point.",
+                "time": "37:19",
+                "user": "tutor"
+            },
+            {
+                "id": 119,
+                "text": "Here comes the question.",
+                "time": "37:33",
+                "user": "tutor"
+            },
+            {
+                "id": 120,
+                "text": "Is that your final answer?",
+                "time": "38:44",
+                "user": "tutor"
+            },
+            {
+                "id": 121,
+                "text": "0.8",
+                "time": "39:18",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 122,
+                "text": "Please recheck your answer.",
+                "time": "39:28",
+                "user": "tutor"
+            },
+            {
+                "id": 123,
+                "text": "That's the correct answer.",
+                "time": "40:12",
+                "user": "tutor"
+            },
+            {
+                "id": 124,
+                "text": "Good job! Plus 1 point. Keep it up.",
+                "time": "40:18",
+                "user": "tutor"
+            },
+            {
+                "id": 125,
+                "text": "Here comes the practice question.",
+                "time": "40:43",
+                "user": "tutor"
+            },
+            {
+                "id": 126,
+                "text": "Way to go!",
+                "time": "40:48",
+                "user": "tutor"
+            },
+            {
+                "id": 127,
+                "text": "We are left with the last 3 minutes.",
+                "time": "41:36",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "You are close! You want to write \"eight hundredths\", but you wrote \"eight tenths\"",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "You are close! You want to write \"eight hundredths\", but you wrote \"eight tenths\"",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "oh 0.08",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great job!",
+                "is_revised": true
+            }
+        ],
+        "e": "careless",
+        "z_what": "provide_correction",
+        "z_why": "hint_mistake"
+    },
+    {
+        "c_id": "2928271_69",
+        "lesson_topic": "4.2C.Multiplicative Comparisons",
+        "c_h": [
+            {
+                "id": 69,
+                "text": "Correct answer.",
+                "time": "23:36",
+                "user": "tutor"
+            },
+            {
+                "id": 70,
+                "text": "oh",
+                "time": "23:42",
+                "user": "student"
+            },
+            {
+                "id": 71,
+                "text": "What is the product of 9 and 8?",
+                "time": "24:09",
+                "user": "tutor"
+            },
+            {
+                "id": 72,
+                "text": "17",
+                "time": "24:34",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 73,
+                "text": "Your answer is incorrect.",
+                "time": "24:59",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Ah, not quite. Product just means the result of a multiplication question. In other words, what's 9 x 8?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Ah, not quite. Product just means the result of a multiplication question. In other words, what's 9 x 8?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "72",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Well done!",
+                "is_revised": true
+            }
+        ],
+        "e": "misinterpret",
+        "z_what": "simplify_question",
+        "z_why": "clarify_misunderstanding"
+    },
+    {
+        "c_id": "4110653_19",
+        "lesson_topic": "3.6D.Decomposing Figures",
+        "c_h": [
+            {
+                "id": 19,
+                "text": "Sounds great.",
+                "time": "16:19",
+                "user": "tutor"
+            },
+            {
+                "id": 20,
+                "text": "Use the area formula to find the area of the current patio.",
+                "time": "16:25",
+                "user": "tutor"
+            },
+            {
+                "id": 21,
+                "text": "What is the area of the pink rectangle?",
+                "time": "16:37",
+                "user": "tutor"
+            },
+            {
+                "id": 22,
+                "text": "4 m",
+                "time": "17:13",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 23,
+                "text": "That's incorrect.",
+                "time": "17:51",
+                "user": "tutor"
+            },
+            {
+                "id": 24,
+                "text": "We have to multiply the 4 and 3.",
+                "time": "18:39",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "To find the area, we would multiply the length times width. What is the length?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "To find the area, we would multiply the length times width. What is the length?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "4",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "What is the width? ",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "3",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Now, we multiply 4 times 3. What's your answer?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "12",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct! Good job",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "explain_concept",
+        "z_why": "clarify_misunderstanding"
+    },
+    {
+        "c_id": "4290454_38",
+        "lesson_topic": "5.4G.Volume of Rectangular Prisms (Review) - 2",
+        "c_h": [
+            {
+                "id": 38,
+                "text": "Good start.",
+                "time": "19:01",
+                "user": "tutor"
+            },
+            {
+                "id": 39,
+                "text": "the answer is 28",
+                "time": "19:34",
+                "user": "student"
+            },
+            {
+                "id": 40,
+                "text": "Is that your final answer?",
+                "time": "19:38",
+                "user": "tutor"
+            },
+            {
+                "id": 41,
+                "text": "yes",
+                "time": "19:44",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 42,
+                "text": "That was a good try.",
+                "time": "19:55",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "Please read the question carefully.",
+                "time": "20:01",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "We need to find the prism's height.",
+                "time": "20:14",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "In the given information, the volume of the rectangular prism is 168 cubic feet.",
+                "time": "20:50",
+                "user": "tutor"
+            },
+            {
+                "id": 46,
+                "text": "Please go ahead and find the value of height.",
+                "time": "21:32",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great start! Can you explain how you got 28?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great start! Can you explain how you got 28?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "I multiplied 7 and 4",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Great - that is the area of the base of the rectangular prism. To find the volume you will have to multiply by the height as well.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "^^",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "ask_question",
+        "z_why": "elaborate_answer"
+    },
+    {
+        "c_id": "2927561_29",
+        "lesson_topic": "4.3E.Comparing Whole Numbers",
+        "c_h": [
+            {
+                "id": 29,
+                "text": "You can to it!",
+                "time": "16:35",
+                "user": "tutor"
+            },
+            {
+                "id": 30,
+                "text": "1 is the first smallest digit in the number 3591.",
+                "time": "17:45",
+                "user": "tutor"
+            },
+            {
+                "id": 31,
+                "text": "Which is the next smallest digit in 3591 other than 1?",
+                "time": "18:16",
+                "user": "tutor"
+            },
+            {
+                "id": 32,
+                "text": "9 cause its 10 and 3 is 1,000 and 5 is 100",
+                "time": "18:54",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 33,
+                "text": "NIce try! Plus 1 point for your efforts.",
+                "time": "19:17",
+                "user": "tutor"
+            },
+            {
+                "id": 34,
+                "text": "Consider only the digits, not the place values.",
+                "time": "19:43",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Ah yeah, I see what you mean. Sorry, I should've been more precise.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "If you ignore the place values, what is the next smallest number out of 3, 5, and 9?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Ah yeah, I see what you mean. Sorry, I should've been more precise.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "If you ignore the place values, what is the next smallest number out of 3, 5, and 9?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "3 obviously",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "That's right!",
+                "is_revised": true
+            }
+        ],
+        "e": "misinterpret",
+        "z_what": "simplify_question",
+        "z_why": "clarify_misunderstanding"
+    },
+    {
+        "c_id": "6404706_41",
+        "lesson_topic": "5.2A.Place Value",
+        "c_h": [
+            {
+                "id": 41,
+                "text": "Go through the question once.",
+                "time": "15:28",
+                "user": "tutor"
+            },
+            {
+                "id": 42,
+                "text": "In this question, we need to find the value of the number 10 to the exponent 5.",
+                "time": "16:05",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "Would you like to give this question a try?",
+                "time": "16:18",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "is it 10.05??",
+                "time": "16:55",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 45,
+                "text": "That's a good try.",
+                "time": "17:12",
+                "user": "tutor"
+            },
+            {
+                "id": 46,
+                "text": "Plus 1 point for that good try.",
+                "time": "17:26",
+                "user": "tutor"
+            },
+            {
+                "id": 47,
+                "text": "Let me explain it to you.",
+                "time": "17:35",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! an exponent of 5 means that you will multiply the base number by itself that many times. So, 10 to the exponent 5 would be 10x10x10x10x10",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! an exponent of 5 means that you will multiply the base number by itself that many times. So, 10 to the exponent 5 would be 10x10x10x10x10",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "oh ok. 100000",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great job!",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_strategy",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4138677_40",
+        "lesson_topic": "4.3E.Adding and Subtracting Fractions",
+        "c_h": [
+            {
+                "id": 40,
+                "text": "Excellent work so far! Keep it up!",
+                "time": "32:57",
+                "user": "tutor"
+            },
+            {
+                "id": 41,
+                "text": "Please recheck the answer.",
+                "time": "33:54",
+                "user": "tutor"
+            },
+            {
+                "id": 42,
+                "text": "Are you still on the computer?",
+                "time": "34:41",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "yes im right what are you talking about",
+                "time": "35:16",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 44,
+                "text": "Please recheck the answer on the white board.",
+                "time": "35:49",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "Great! Plus 3 points added to your total.",
+                "time": "36:36",
+                "user": "tutor"
+            },
+            {
+                "id": 46,
+                "text": "Here is your last exit ticket question.",
+                "time": "37:15",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Yes, your numerator is correct! However, remember that when we're adding fractions with the same denominator, we keep the denominator the same - we don't add the denominators.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Yes, your numerator is correct! However, remember that when we're adding fractions with the same denominator, we keep the denominator the same - we don't add the denominators.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Oh yeah",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "It's 5/6 then, not 5/12",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "There you go!",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "provide_hint",
+        "z_why": "hint_mistake"
+    },
+    {
+        "c_id": "2928562_34",
+        "lesson_topic": "8.5G.Intro to Functions",
+        "c_h": [
+            {
+                "id": 34,
+                "text": "The x's count by twos and the y's count by 6's.",
+                "time": "12:14",
+                "user": "tutor"
+            },
+            {
+                "id": 35,
+                "text": "Look for a pattern on this part of the chart only to help you with this question.",
+                "time": "12:39",
+                "user": "tutor"
+            },
+            {
+                "id": 36,
+                "text": "Why does the given chart have the five in the x column when it is counting by two's before that?",
+                "time": "12:55",
+                "user": "tutor"
+            },
+            {
+                "id": 37,
+                "text": "23",
+                "time": "12:59",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 38,
+                "text": "That was a very good try.",
+                "time": "13:13",
+                "user": "tutor"
+            },
+            {
+                "id": 39,
+                "text": "The 5 is on there to make the pattern harder to determine.",
+                "time": "13:19",
+                "user": "tutor"
+            },
+            {
+                "id": 40,
+                "text": "If you ignore that part and look at the rest of the chart, you can see the pattern clearly.",
+                "time": "13:31",
+                "user": "tutor"
+            },
+            {
+                "id": 41,
+                "text": "Extend the chart continuing the pattern until you get to x=10.",
+                "time": "14:17",
+                "user": "tutor"
+            },
+            {
+                "id": 42,
+                "text": "Did you understand what I said?",
+                "time": "14:31",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "Could you type 'here' to let me know you are still in the session?",
+                "time": "15:02",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "How did you get that?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "How did you get that?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "idk",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "What do you notice about the table?",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "ask_question",
+        "z_why": "elaborate_answer"
+    },
+    {
+        "c_id": "4055603_103",
+        "lesson_topic": "3.2B.Multiples of Ten",
+        "c_h": [
+            {
+                "id": 103,
+                "text": "Is that your final answer?",
+                "time": "55:30",
+                "user": "tutor"
+            },
+            {
+                "id": 104,
+                "text": "no\\\\",
+                "time": "55:37",
+                "user": "student"
+            },
+            {
+                "id": 105,
+                "text": "What is the final answer?",
+                "time": "55:55",
+                "user": "tutor"
+            },
+            {
+                "id": 106,
+                "text": "nhw",
+                "time": "55:58",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 107,
+                "text": "That's incorrect.",
+                "time": "56:17",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Can you give me a number that is a multiple of 10?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Can you give me a number that is a multiple of 10?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "90",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct! Good job",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "6142712_45",
+        "lesson_topic": "5.1A.Multiplying Whole Numbers",
+        "c_h": [
+            {
+                "id": 45,
+                "text": "yay",
+                "time": "09:55",
+                "user": "student"
+            },
+            {
+                "id": 46,
+                "text": "Next, we have to find the value of 6 times 9 + 2.",
+                "time": "10:11",
+                "user": "tutor"
+            },
+            {
+                "id": 47,
+                "text": "What is the value of 6 times 9 + 2?",
+                "time": "10:21",
+                "user": "tutor"
+            },
+            {
+                "id": 48,
+                "text": "99",
+                "time": "10:50",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 49,
+                "text": "Very good try.",
+                "time": "11:04",
+                "user": "tutor"
+            },
+            {
+                "id": 50,
+                "text": "Try to recheck your answer once again.",
+                "time": "11:12",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! What was your first step?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! What was your first step?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "9+2 and then times by 6",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ok great. 11x6.",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "ask_question",
+        "z_why": "diagnose_mistake"
+    },
+    {
+        "c_id": "6377795_12",
+        "lesson_topic": "5.2B.Comparing Decimal Numbers",
+        "c_h": [
+            {
+                "id": 12,
+                "text": "'<' is the lesser than symbol. 7.09 is less than(<) 7.90.",
+                "time": "22:56",
+                "user": "tutor"
+            },
+            {
+                "id": 13,
+                "text": "Did you understand what i did on the whiteboard ?",
+                "time": "24:14",
+                "user": "tutor"
+            },
+            {
+                "id": 14,
+                "text": "Are you there in the session?",
+                "time": "25:47",
+                "user": "tutor"
+            },
+            {
+                "id": 15,
+                "text": "ya",
+                "time": "27:24",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 16,
+                "text": "Thank you for your efforts today! Please fill in the feedback form as you leave. See you next time ",
+                "time": "29:41",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Is this statement true or false? 8.05 > 8.50 ",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Is this statement true or false? 8.05 > 8.50 ",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Falso",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "That is correct! Good job",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "6321465_41",
+        "lesson_topic": "5.7A.Line Plots with Fractions (Review) - 2",
+        "c_h": [
+            {
+                "id": 41,
+                "text": "Please recheck your answer.",
+                "time": "15:46",
+                "user": "tutor"
+            },
+            {
+                "id": 42,
+                "text": "3/4 + 1/4 =4/4",
+                "time": "15:58",
+                "user": "student"
+            },
+            {
+                "id": 43,
+                "text": "1/8+2/4+6/8+2/2+5/8 = ?",
+                "time": "16:31",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "16/8",
+                "time": "17:09",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 45,
+                "text": "That was a good try.",
+                "time": "17:44",
+                "user": "tutor"
+            },
+            {
+                "id": 46,
+                "text": "Please have a look at the whiteboard.",
+                "time": "18:03",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! Remember that you need common denominators when you add fractions. What is the common denominator between 8, 4, and 2?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! Remember that you need common denominators when you add fractions. What is the common denominator between 8, 4, and 2?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "8?",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great! Let's convert so all the fractions have a denominator of 8",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "explain_concept",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4294755_60",
+        "lesson_topic": "4.5C.Area",
+        "c_h": [
+            {
+                "id": 60,
+                "text": "Excellent!",
+                "time": "30:57",
+                "user": "tutor"
+            },
+            {
+                "id": 61,
+                "text": "A = l x w, A stands for area, l stands for length, and w stands for width.",
+                "time": "31:06",
+                "user": "tutor"
+            },
+            {
+                "id": 62,
+                "text": "What is the length of this rectangle?",
+                "time": "31:09",
+                "user": "tutor"
+            },
+            {
+                "id": 63,
+                "text": "24",
+                "time": "31:23",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 64,
+                "text": "Please recheck.",
+                "time": "31:53",
+                "user": "tutor"
+            },
+            {
+                "id": 65,
+                "text": "What is the length of this rectangle?",
+                "time": "31:58",
+                "user": "tutor"
+            },
+            {
+                "id": 66,
+                "text": "86 feet.",
+                "time": "32:03",
+                "user": "tutor"
+            },
+            {
+                "id": 67,
+                "text": "What is the width of this rectangle?",
+                "time": "32:13",
+                "user": "tutor"
+            },
+            {
+                "id": 68,
+                "text": "24 feet.",
+                "time": "32:17",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Usually for length we choose the longer side. 24 would be the width.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Usually for length we choose the longer side. 24 would be the width.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "oh ok that makes sense",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ok now that you understand that, what would the area be?",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "explain_concept",
+        "z_why": "correct_mistake"
+    },
+    {
+        "c_id": "2928505_92",
+        "lesson_topic": "4.4G.Estimation",
+        "c_h": [
+            {
+                "id": 92,
+                "text": "200",
+                "time": "30:06",
+                "user": "student"
+            },
+            {
+                "id": 93,
+                "text": "Okay [STUDENT].",
+                "time": "30:07",
+                "user": "tutor"
+            },
+            {
+                "id": 94,
+                "text": "Is it 200?",
+                "time": "30:25",
+                "user": "tutor"
+            },
+            {
+                "id": 95,
+                "text": "yes",
+                "time": "30:39",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 96,
+                "text": "That was s good try.",
+                "time": "30:49",
+                "user": "tutor"
+            },
+            {
+                "id": 97,
+                "text": "But, the answer is 300.",
+                "time": "30:59",
+                "user": "tutor"
+            },
+            {
+                "id": 98,
+                "text": "You don't need to subtract 1 from the hundreds place value number.",
+                "time": "32:35",
+                "user": "tutor"
+            },
+            {
+                "id": 99,
+                "text": "Are you understand?",
+                "time": "32:43",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Close! You do not need to subtract 1 from the hundreds place value.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Close! You do not need to subtract 1 from the hundreds place value.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Oh, ok. 300?",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct - great job!",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "explain_concept",
+        "z_why": "clarify_misunderstanding"
+    },
+    {
+        "c_id": "4113439_21",
+        "lesson_topic": "3.6C.Unit Squares (Review) - 1",
+        "c_h": [
+            {
+                "id": 21,
+                "text": "i dont know",
+                "time": "20:43",
+                "user": "student"
+            },
+            {
+                "id": 22,
+                "text": "This image has 4 halves.\u00a0 If two halves make a whole, 2 wholes do make 4 halves.",
+                "time": "21:43",
+                "user": "tutor"
+            },
+            {
+                "id": 23,
+                "text": "Do you understand?",
+                "time": "22:32",
+                "user": "tutor"
+            },
+            {
+                "id": 24,
+                "text": "ammmmmmmmmm a littal",
+                "time": "23:02",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 25,
+                "text": "Do you mind explaining which part you are not quite understanding?",
+                "time": "24:45",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "If we have 5 wholes, how many halves is that?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "If we have 5 wholes, how many halves is that?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "I don't know",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "To get the number of halves, we always just double the number of wholes",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "So if we have 5 wholes, double that is 10 halves",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "ask_question",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "2963625_14",
+        "lesson_topic": "2.8A.2- and 3-Dimensional Shapes",
+        "c_h": [
+            {
+                "id": 14,
+                "text": "This is our first question.",
+                "time": "04:44",
+                "user": "tutor"
+            },
+            {
+                "id": 15,
+                "text": "ok",
+                "time": "04:49",
+                "user": "student"
+            },
+            {
+                "id": 16,
+                "text": "What is meant by 2D shape?",
+                "time": "05:11",
+                "user": "tutor"
+            },
+            {
+                "id": 17,
+                "text": "like its flat",
+                "time": "05:37",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 18,
+                "text": "That is a good try!",
+                "time": "05:48",
+                "user": "tutor"
+            },
+            {
+                "id": 19,
+                "text": "2D shapes are shapes with two dimensions, such as width and height.",
+                "time": "06:03",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! Can you explain what you mean by flat?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! Can you explain what you mean by flat?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "like it's flat on the paper",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great! Yes we can say that 2-dimensional items are flat on the paper, but they do have 2 dimensions.",
+                "is_revised": true
+            }
+        ],
+        "e": "imprecise",
+        "z_what": "ask_question",
+        "z_why": "elaborate_answer"
+    },
+    {
+        "c_id": "2915969_42",
+        "lesson_topic": "5.3C.Multi-Digit Division with Two-Digit Divisors",
+        "c_h": [
+            {
+                "id": 42,
+                "text": "What times 13 gives us 39?",
+                "time": "15:43",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "ok",
+                "time": "17:12",
+                "user": "student"
+            },
+            {
+                "id": 44,
+                "text": "What is the value of 13 times 3?",
+                "time": "18:03",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "19",
+                "time": "18:23",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 46,
+                "text": "That's a good try.",
+                "time": "18:47",
+                "user": "tutor"
+            },
+            {
+                "id": 47,
+                "text": "Multiplication is also called as repeated addition.",
+                "time": "19:20",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "I see your thinking, 3x3 is 9 but when we have multiple digits multiplication works a little differently",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "I see your thinking, 3x3 is 9 but when we have multiple digits multiplication works a little differently",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "oh, how",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Let's look at a similar problem or 14*2",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_similar_problem",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4110653_70",
+        "lesson_topic": "3.6D.Decomposing Figures",
+        "c_h": [
+            {
+                "id": 70,
+                "text": "es 28",
+                "time": "40:58",
+                "user": "student"
+            },
+            {
+                "id": 71,
+                "text": "Recheck your work once again.",
+                "time": "41:24",
+                "user": "tutor"
+            },
+            {
+                "id": 72,
+                "text": "Do you need any help with it?",
+                "time": "42:50",
+                "user": "tutor"
+            },
+            {
+                "id": 73,
+                "text": "'es 37",
+                "time": "43:54",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 74,
+                "text": "That's incorrect.",
+                "time": "44:29",
+                "user": "tutor"
+            },
+            {
+                "id": 75,
+                "text": "Let me explain it to you.",
+                "time": "44:54",
+                "user": "tutor"
+            },
+            {
+                "id": 76,
+                "text": "There are 2 ways to divide the blueprint into two rectangles.",
+                "time": "45:22",
+                "user": "tutor"
+            },
+            {
+                "id": 77,
+                "text": "How can we use the area formula to find the area of the top rectangle?",
+                "time": "46:47",
+                "user": "tutor"
+            },
+            {
+                "id": 78,
+                "text": "How can we find the total area of the figure?",
+                "time": "48:28",
+                "user": "tutor"
+            },
+            {
+                "id": 79,
+                "text": "Good job! Keep going.",
+                "time": "49:09",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Hm, not quite. We need to break up the this shape into two smaller shapes",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "This is because this shape is kind of weird and we can't easily get the area of it right away",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Can you think of how we can divide this shape up into two rectangles?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Hm, not quite. We need to break up the this shape into two smaller shapes",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "This is because this shape is kind of weird and we can't easily get the area of it right away",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Can you think of how we can divide this shape up into two rectangles?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Draw a line near the top",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "That's right! After we do that, we can get thje area of the top rectangle and then get the area of the bottom rectangle",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "We can then add those areas together to get the area of the entire shape",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "provide_strategy",
+        "z_why": "support_thinking"
+    },
+    {
+        "c_id": "2990115_54",
+        "lesson_topic": "6.2E.Dividing Fractions",
+        "c_h": [
+            {
+                "id": 54,
+                "text": "Sounds good.",
+                "time": "14:52",
+                "user": "tutor"
+            },
+            {
+                "id": 55,
+                "text": "When dividing with fractions, the whole number must be changed into a fraction.",
+                "time": "15:12",
+                "user": "tutor"
+            },
+            {
+                "id": 56,
+                "text": "How can the problem be written changing 20 to a fraction?",
+                "time": "15:52",
+                "user": "tutor"
+            },
+            {
+                "id": 57,
+                "text": "20 over 100",
+                "time": "16:05",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 58,
+                "text": "Okay, that's a good try!",
+                "time": "16:22",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try. When we want to change a whole number into a fraction we do not want to change it's value.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try. When we want to change a whole number into a fraction we do not want to change it's value.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Ok",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "So, what number do we divide by when we want the value of the number to stay the same?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "1?",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_hint",
+        "z_why": "correct_mistake"
+    },
+    {
+        "c_id": "2963788_93",
+        "lesson_topic": "4.1C.Estimation (Review) - 1",
+        "c_h": [
+            {
+                "id": 93,
+                "text": "b",
+                "time": "46:01",
+                "user": "student"
+            },
+            {
+                "id": 94,
+                "text": "Try to solve it quickly.",
+                "time": "46:04",
+                "user": "tutor"
+            },
+            {
+                "id": 95,
+                "text": "Is that your answer?",
+                "time": "46:14",
+                "user": "tutor"
+            },
+            {
+                "id": 96,
+                "text": "yes",
+                "time": "46:30",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 97,
+                "text": "[STUDENT], your answer is incorrect.",
+                "time": "46:35",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! We want to estimate the total number of balloons in the two groups. How many balloons do you estimate in 1?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! We want to estimate the total number of balloons in the two groups. How many balloons do you estimate in 1?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "4",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "ok, so then we can try to double 4",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_strategy",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4054686_35",
+        "lesson_topic": "3.1A.Bar Graphs",
+        "c_h": [
+            {
+                "id": 35,
+                "text": "okay",
+                "time": "30:13",
+                "user": "student"
+            },
+            {
+                "id": 36,
+                "text": "Identify the least and most favorite colors.",
+                "time": "30:20",
+                "user": "tutor"
+            },
+            {
+                "id": 37,
+                "text": "What is the least favorite color?",
+                "time": "30:44",
+                "user": "tutor"
+            },
+            {
+                "id": 38,
+                "text": "yellow",
+                "time": "30:56",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 39,
+                "text": "That's the incorrect answer.",
+                "time": "32:09",
+                "user": "tutor"
+            },
+            {
+                "id": 40,
+                "text": "The least favorite color is orange.",
+                "time": "33:47",
+                "user": "tutor"
+            },
+            {
+                "id": 41,
+                "text": "What is most favorite color?",
+                "time": "34:13",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try - why did you choose yellow?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try - why did you choose yellow?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Cuz it was on the left",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ok great try! You want to look at the height of the bar graph, not how far to the left or right it is.",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "diagnose_mistake"
+    },
+    {
+        "c_id": "4114606_89",
+        "lesson_topic": "7.4D.Percent Change",
+        "c_h": [
+            {
+                "id": 89,
+                "text": "Plus 3 points added to your scoreboard.",
+                "time": "36:41",
+                "user": "tutor"
+            },
+            {
+                "id": 90,
+                "text": "Please give this question a try.",
+                "time": "37:08",
+                "user": "tutor"
+            },
+            {
+                "id": 91,
+                "text": "Is that your final answer?",
+                "time": "39:28",
+                "user": "tutor"
+            },
+            {
+                "id": 92,
+                "text": "yes",
+                "time": "39:46",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 93,
+                "text": "[STUDENT], please recheck your answer.",
+                "time": "40:12",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "That is not correct. Percent change formula is the new price minus the original price. Then divide that value by the original price. What is the new price?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "That is not correct. Percent change formula is the new price minus the original price. Then divide that value by the original price. What is the new price?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "$15",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct! Good job.",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "explain_concept",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4054746_7",
+        "lesson_topic": "4.1C.Estimation",
+        "c_h": [
+            {
+                "id": 7,
+                "text": "Yes, [STUDENT].",
+                "time": "13:51",
+                "user": "tutor"
+            },
+            {
+                "id": 8,
+                "text": "Today, we are going to work on the topic \"Estimation.\"",
+                "time": "14:16",
+                "user": "tutor"
+            },
+            {
+                "id": 9,
+                "text": "What do you know about place value?",
+                "time": "14:40",
+                "user": "tutor"
+            },
+            {
+                "id": 10,
+                "text": "893",
+                "time": "17:23",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 11,
+                "text": "+1 point for your great try!",
+                "time": "17:43",
+                "user": "tutor"
+            },
+            {
+                "id": 12,
+                "text": "No worries, I will help you to get the answer.",
+                "time": "17:57",
+                "user": "tutor"
+            },
+            {
+                "id": 13,
+                "text": "Place Value is the value a digit represents based on its location within a number.",
+                "time": "18:22",
+                "user": "tutor"
+            },
+            {
+                "id": 14,
+                "text": "Rounding is making a number easier to work with by finding a number.",
+                "time": "18:46",
+                "user": "tutor"
+            },
+            {
+                "id": 15,
+                "text": "426 \"rounds down\" to 400 because there are only 2 tens which is less than 4, this means that it is closer to 400 than to 500.",
+                "time": "21:41",
+                "user": "tutor"
+            },
+            {
+                "id": 16,
+                "text": "467 \"rounds up\" to 500 because there are 6 tens which means that 467 is closer to 500 than to 400.",
+                "time": "22:03",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "What place is the 8 in the number 893?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "What place is the 8 in the number 893?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Hundreds.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "That is correct! ",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "ask_question",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "3981486_67",
+        "lesson_topic": "3.4H.Understanding Division (Review) - 2",
+        "c_h": [
+            {
+                "id": 67,
+                "text": "Please go ahead.",
+                "time": "57:55",
+                "user": "tutor"
+            },
+            {
+                "id": 68,
+                "text": "Give it a shot.",
+                "time": "57:59",
+                "user": "tutor"
+            },
+            {
+                "id": 69,
+                "text": "Before we end the session, is there anything else I can help you with?",
+                "time": "59:25",
+                "user": "tutor"
+            },
+            {
+                "id": 70,
+                "text": "No",
+                "time": "59:38",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 71,
+                "text": "Thank you for your efforts today! Please fill in the feedback form as you leave. See you next time ",
+                "time": "59:49",
+                "user": "tutor"
+            },
+            {
+                "id": 72,
+                "text": "Bye Sofia.",
+                "time": "59:55",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Please fill out the feedback form as you leave",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Please fill out the feedback form as you leave",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Ok bye",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Bye",
+                "is_revised": true
+            }
+        ],
+        "e": "The student did not make a mistake and the tutor did not indicate that the student had made a mistake. Maybe the word \"effort\" was mistakenly flagged as the tutor indicating  the student had made a mistake.",
+        "z_what": "Asked the student to fill out the feedback form.",
+        "z_why": "Perhaps this is the protocol by the tutoring company, that the student should provide feedback on their tutoring session."
+    },
+    {
+        "c_id": "2850095_108",
+        "lesson_topic": "2.4B.Addition and Subtraction Within 100",
+        "c_h": [
+            {
+                "id": 108,
+                "text": "no",
+                "time": "44:51",
+                "user": "student"
+            },
+            {
+                "id": 109,
+                "text": "Here is the next question.",
+                "time": "45:06",
+                "user": "tutor"
+            },
+            {
+                "id": 110,
+                "text": "Would you like to give it a try?",
+                "time": "45:12",
+                "user": "tutor"
+            },
+            {
+                "id": 111,
+                "text": "it is 68",
+                "time": "46:18",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 112,
+                "text": "Your answer is incorrect.",
+                "time": "46:47",
+                "user": "tutor"
+            },
+            {
+                "id": 113,
+                "text": "Are you working on this question?",
+                "time": "48:12",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! Can you please explain how you got 68?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! Can you please explain how you got 68?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "24 + 24 + 24",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ok great. When you add 24 to itself 3 times you need to make sure you carry the tens place!",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "diagnose_mistake"
+    },
+    {
+        "c_id": "2963009_28",
+        "lesson_topic": "5.2A.Place Value",
+        "c_h": [
+            {
+                "id": 28,
+                "text": "like that",
+                "time": "17:09",
+                "user": "student"
+            },
+            {
+                "id": 29,
+                "text": "+1 point for your try.",
+                "time": "17:20",
+                "user": "tutor"
+            },
+            {
+                "id": 30,
+                "text": "How many zeros are in a hundred?",
+                "time": "18:06",
+                "user": "tutor"
+            },
+            {
+                "id": 31,
+                "text": "0",
+                "time": "18:22",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 32,
+                "text": "Please recheck again.",
+                "time": "18:33",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Let's review place value. In the number 672, the 6 digit is in the hundreds place, representing 600. 7 is in the tens place and 2 is in the ones place.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Let's review place value. In the number 672, the 6 digit is in the hundreds place, representing 600. 7 is in the tens place and 2 is in the ones place.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "oh I forgot about the tens place",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ok I'm glad we could review! So how many zeros are in a hundred?",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "explain_concept",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4111828_8",
+        "lesson_topic": "5.2C.Rounding Decimal Numbers",
+        "c_h": [
+            {
+                "id": 8,
+                "text": "Today, we will work on the topic \" Rounding decimal numbers.\"",
+                "time": "06:39",
+                "user": "tutor"
+            },
+            {
+                "id": 9,
+                "text": "oooooh okay!!",
+                "time": "06:47",
+                "user": "student"
+            },
+            {
+                "id": 10,
+                "text": "What is the value of pi?",
+                "time": "07:02",
+                "user": "tutor"
+            },
+            {
+                "id": 11,
+                "text": "3.159? ( i have no clue)",
+                "time": "07:27",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 12,
+                "text": "You have got 1 point for your efforts.",
+                "time": "08:05",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Yeah, you're very close. Pi is 3.14 rounded to 2 decimal places",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Yeah, you're very close. Pi is 3.14 rounded to 2 decimal places",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Ok",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Could you try rounding pi to the nearest whole number?",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "Told the student the value of pi rounded to 2 decimal places. The student needs to know this if he is to round pi, which I think may be the followup question",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4247410_101",
+        "lesson_topic": "7.NS.1b.Adding Rational Numbers",
+        "c_h": [
+            {
+                "id": 101,
+                "text": "Please go ahead and read the question carefully.",
+                "time": "50:17",
+                "user": "tutor"
+            },
+            {
+                "id": 102,
+                "text": "Please share the answer.",
+                "time": "51:15",
+                "user": "tutor"
+            },
+            {
+                "id": 103,
+                "text": "Are you there?",
+                "time": "53:03",
+                "user": "tutor"
+            },
+            {
+                "id": 104,
+                "text": "aiden and adiel and eliesn and jeremah *****",
+                "time": "54:13",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 105,
+                "text": "Plus 1 point for your great effort and excellent participation in today's session.",
+                "time": "54:21",
+                "user": "tutor"
+            },
+            {
+                "id": 106,
+                "text": "The answer is 7+(-3).",
+                "time": "54:52",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! But what operation will we use?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! But what operation will we use?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "7 minus 3",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great job",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "ask_question",
+        "z_why": "signal_goal"
+    },
+    {
+        "c_id": "2928755_98",
+        "lesson_topic": "5.1A.Multiplying Whole Numbers",
+        "c_h": [
+            {
+                "id": 98,
+                "text": "ssssssssssooooorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+                "time": "54:03",
+                "user": "student"
+            },
+            {
+                "id": 99,
+                "text": "What is the value of the length of the square?",
+                "time": "54:21",
+                "user": "tutor"
+            },
+            {
+                "id": 100,
+                "text": "Are you working on this question?",
+                "time": "55:53",
+                "user": "tutor"
+            },
+            {
+                "id": 101,
+                "text": "rectangle area = length    width",
+                "time": "56:02",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 102,
+                "text": "That was a good effort.",
+                "time": "56:15",
+                "user": "tutor"
+            },
+            {
+                "id": 103,
+                "text": "The length of the square is 1 over 4 cm.",
+                "time": "56:51",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "You are correct that you find area by multiplying length and width. But what is the value of the length?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "You are correct that you find area by multiplying length and width. But what is the value of the length?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "oh, 7",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct!",
+                "is_revised": true
+            }
+        ],
+        "e": "misinterpret",
+        "z_what": "ask_question",
+        "z_why": "signal_goal"
+    },
+    {
+        "c_id": "2989231_74",
+        "lesson_topic": "3.3F.Understanding Equivalent Fractions (Review) - 1",
+        "c_h": [
+            {
+                "id": 74,
+                "text": "Go ahead, try it your best shot.",
+                "time": "33:34",
+                "user": "tutor"
+            },
+            {
+                "id": 75,
+                "text": "This is a very good start.",
+                "time": "33:50",
+                "user": "tutor"
+            },
+            {
+                "id": 76,
+                "text": "Is this your final answer?",
+                "time": "34:33",
+                "user": "tutor"
+            },
+            {
+                "id": 77,
+                "text": "yes",
+                "time": "34:46",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 78,
+                "text": "That's a good try.",
+                "time": "35:08",
+                "user": "tutor"
+            },
+            {
+                "id": 79,
+                "text": "Plus 1 point for your try.",
+                "time": "35:20",
+                "user": "tutor"
+            },
+            {
+                "id": 80,
+                "text": "You have earned a point for your work on the whiteboard.",
+                "time": "35:30",
+                "user": "tutor"
+            },
+            {
+                "id": 81,
+                "text": "Let me explain it to you.",
+                "time": "35:47",
+                "user": "tutor"
+            },
+            {
+                "id": 82,
+                "text": "In this question, we have to find the shaded portion of the figure.",
+                "time": "36:39",
+                "user": "tutor"
+            },
+            {
+                "id": 83,
+                "text": "So, the final answer is 3/4.",
+                "time": "37:12",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Hmm, not quite",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "We're looking for a fraction that is the same as  6/8",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Can you think of a number that can be divided into both 6 and 8?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Hmm, not quite",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "We're looking for a fraction that is the same as  6/8",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Can you think of a number that can be divided into both 6 and 8?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "2?",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yes, that's right",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "So we can divide both the 6 and 8 by 2 and not change the value of the fraction",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "By doing that, we get 3/4",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "explain_concept",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "6128722_21",
+        "lesson_topic": "4.4D.Multiplying Multi-Digit by One-Digit Numbers",
+        "c_h": [
+            {
+                "id": 21,
+                "text": "Are you familiar with multiplying multi-digit numbers by one-digit numbers?",
+                "time": "09:24",
+                "user": "tutor"
+            },
+            {
+                "id": 22,
+                "text": "yes",
+                "time": "09:35",
+                "user": "student"
+            },
+            {
+                "id": 23,
+                "text": "The first step is to multiply the bottom number which is 9 by the ones place of the number at the top. What is 9 times 8?",
+                "time": "10:21",
+                "user": "tutor"
+            },
+            {
+                "id": 24,
+                "text": "81",
+                "time": "11:04",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 25,
+                "text": "That was a good try. Plus 1 point.",
+                "time": "11:29",
+                "user": "tutor"
+            },
+            {
+                "id": 26,
+                "text": "9 times 9 is 81. 9 times 8 gives the product as 72.",
+                "time": "11:49",
+                "user": "tutor"
+            },
+            {
+                "id": 27,
+                "text": "We need to regroup 72 as 7 tens and 2 ones. We write 2 at the ones place of the product and 7 is taken to the tens place which will be added to the product of the tens place.",
+                "time": "12:56",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Close. 9 x 9 is 81. Could you try 9 x 8 again?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Close. 9 x 9 is 81. Could you try 9 x 8 again?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Oops, it's 72",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yes, well done!",
+                "is_revised": true
+            }
+        ],
+        "e": "careless",
+        "z_what": "provide_correction",
+        "z_why": "hint_mistake"
+    },
+    {
+        "c_id": "4054582_82",
+        "lesson_topic": "2.2A.Place Value",
+        "c_h": [
+            {
+                "id": 82,
+                "text": "Give it your best shot!",
+                "time": "43:13",
+                "user": "tutor"
+            },
+            {
+                "id": 83,
+                "text": "Go through the question carefully.",
+                "time": "43:59",
+                "user": "tutor"
+            },
+            {
+                "id": 84,
+                "text": "Is that your final answer?",
+                "time": "44:12",
+                "user": "tutor"
+            },
+            {
+                "id": 85,
+                "text": "D 400 40 4",
+                "time": "44:13",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 86,
+                "text": "1 point for your good effort.",
+                "time": "44:24",
+                "user": "tutor"
+            },
+            {
+                "id": 87,
+                "text": "Let me review the correct answer.",
+                "time": "44:33",
+                "user": "tutor"
+            },
+            {
+                "id": 88,
+                "text": "Option C, 4 hundreds, 4 tens, and 4 ones is the correct answer.",
+                "time": "45:05",
+                "user": "tutor"
+            },
+            {
+                "id": 89,
+                "text": "Have you understood?",
+                "time": "45:13",
+                "user": "tutor"
+            },
+            {
+                "id": 90,
+                "text": "Let me end the session.",
+                "time": "45:48",
+                "user": "tutor"
+            },
+            {
+                "id": 91,
+                "text": "Hope you had a good session today, and I thoroughly enjoyed working with you.",
+                "time": "45:52",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Hmm, not quite. Could you let me know why you picked D?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Hmm, not quite. Could you let me know why you picked D?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Because 400 + 40 + 4 = 444",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Ah yes that's true! I see your reasoning now. However, this question isn't asking us to write 444 in expanded form. Rather, it wants us to identify how many hundreds, how many tens, and how many ones are in 444",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "So therefore the correct answer is C",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "ask_question",
+        "z_why": "diagnose_mistake"
+    },
+    {
+        "c_id": "3981486_67",
+        "lesson_topic": "3.4H.Understanding Division (Review) - 2",
+        "c_h": [
+            {
+                "id": 67,
+                "text": "Please go ahead.",
+                "time": "57:55",
+                "user": "tutor"
+            },
+            {
+                "id": 68,
+                "text": "Give it a shot.",
+                "time": "57:59",
+                "user": "tutor"
+            },
+            {
+                "id": 69,
+                "text": "Before we end the session, is there anything else I can help you with?",
+                "time": "59:25",
+                "user": "tutor"
+            },
+            {
+                "id": 70,
+                "text": "No",
+                "time": "59:38",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 71,
+                "text": "Thank you for your efforts today! Please fill in the feedback form as you leave. See you next time ",
+                "time": "59:49",
+                "user": "tutor"
+            },
+            {
+                "id": 72,
+                "text": "Bye Sofia.",
+                "time": "59:55",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great - have a great day!",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great - have a great day!",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Thank you",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Good night",
+                "is_revised": true
+            }
+        ],
+        "e": "No mistake!",
+        "z_what": "encourage_student",
+        "z_why": "End tutoring session."
+    },
+    {
+        "c_id": "4290454_38",
+        "lesson_topic": "5.4G.Volume of Rectangular Prisms (Review) - 2",
+        "c_h": [
+            {
+                "id": 38,
+                "text": "Good start.",
+                "time": "19:01",
+                "user": "tutor"
+            },
+            {
+                "id": 39,
+                "text": "the answer is 28",
+                "time": "19:34",
+                "user": "student"
+            },
+            {
+                "id": 40,
+                "text": "Is that your final answer?",
+                "time": "19:38",
+                "user": "tutor"
+            },
+            {
+                "id": 41,
+                "text": "yes",
+                "time": "19:44",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 42,
+                "text": "That was a good try.",
+                "time": "19:55",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "Please read the question carefully.",
+                "time": "20:01",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "We need to find the prism's height.",
+                "time": "20:14",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "In the given information, the volume of the rectangular prism is 168 cubic feet.",
+                "time": "20:50",
+                "user": "tutor"
+            },
+            {
+                "id": 46,
+                "text": "Please go ahead and find the value of height.",
+                "time": "21:32",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Let's review this problem again. What is the volume of the rectangular prism? ",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "168 ",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Let's review this problem again. What is the volume of the rectangular prism? ",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "168 ",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "168 cubic feet. ",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Good. Now let's find the height.",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "2856167_86",
+        "lesson_topic": "3.6B.Quadrilaterals",
+        "c_h": [
+            {
+                "id": 86,
+                "text": "Parallelograms, rectangles, squares, and rhombuses all have 2 pairs of parallel sides.",
+                "time": "27:06",
+                "user": "tutor"
+            },
+            {
+                "id": 87,
+                "text": "A trapezoid is a four sided shape with only 1 pair of parallel sides.",
+                "time": "28:07",
+                "user": "tutor"
+            },
+            {
+                "id": 88,
+                "text": "What type of quadrilateral is the pool?",
+                "time": "28:17",
+                "user": "tutor"
+            },
+            {
+                "id": 89,
+                "text": "pentagon",
+                "time": "28:43",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 90,
+                "text": "That's good try.",
+                "time": "28:53",
+                "user": "tutor"
+            },
+            {
+                "id": 91,
+                "text": "The correct answer is a trapezoid.",
+                "time": "29:03",
+                "user": "tutor"
+            },
+            {
+                "id": 92,
+                "text": "A trapezoid is a quadrilateral with at least one pair of parallel sides.",
+                "time": "29:23",
+                "user": "tutor"
+            },
+            {
+                "id": 93,
+                "text": "Do you understand?",
+                "time": "29:38",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "A pentagon has five sides so that would not be the correct answer. Does the shape have one pair of parallel sides?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "A pentagon has five sides so that would not be the correct answer. Does the shape have one pair of parallel sides?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Yes",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct! Review the definitions above and use that to revise your answer.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "It is a trapezoid?",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yes! This is a trapezoid. Good job",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "ask_question",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "2928821_90",
+        "lesson_topic": "3.4D.Understanding Multiplication",
+        "c_h": [
+            {
+                "id": 90,
+                "text": "What would be the value of 4 times 6?",
+                "time": "41:35",
+                "user": "tutor"
+            },
+            {
+                "id": 91,
+                "text": "Please let me know if you need any help with.",
+                "time": "43:42",
+                "user": "tutor"
+            },
+            {
+                "id": 92,
+                "text": "Do you want me to explain this step?",
+                "time": "44:47",
+                "user": "tutor"
+            },
+            {
+                "id": 93,
+                "text": "if i haf 3 in 1 bag but  he  ole hav 4 bag ma be he cod hav      1 in het bag",
+                "time": "45:29",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 94,
+                "text": "That was a good try.",
+                "time": "46:07",
+                "user": "tutor"
+            },
+            {
+                "id": 95,
+                "text": "He has 4 bags.",
+                "time": "46:23",
+                "user": "tutor"
+            },
+            {
+                "id": 96,
+                "text": "Each one bag contains 6 marbles.",
+                "time": "46:40",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Yes, he has 4 bags. We're trying to find how many total marbles he has",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "We know he has 4 bags and each bag has 6 marbles, so we can do 4 x 6 to figure out how many total marbles he has",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "4 x 6 = ?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Yes, he has 4 bags. We're trying to find how many total marbles he has",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "We know he has 4 bags and each bag has 6 marbles, so we can do 4 x 6 to figure out how many total marbles he has",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "4 x 6 = ?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "24",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Well done!",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "simplify_question",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "2570448_42",
+        "lesson_topic": "5.4B.Solving with Order of Operations",
+        "c_h": [
+            {
+                "id": 42,
+                "text": "The value of 10+4 is 14.",
+                "time": "16:28",
+                "user": "tutor"
+            },
+            {
+                "id": 43,
+                "text": "Therefore, the final answer is 14.",
+                "time": "16:38",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "Do you understand what I did?",
+                "time": "16:42",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "yes",
+                "time": "16:51",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 46,
+                "text": "Plus 2 points for your effort.",
+                "time": "17:03",
+                "user": "tutor"
+            },
+            {
+                "id": 47,
+                "text": "Do you have any questions so far?",
+                "time": "17:06",
+                "user": "tutor"
+            },
+            {
+                "id": 48,
+                "text": "Here is your next question.",
+                "time": "18:36",
+                "user": "tutor"
+            },
+            {
+                "id": 49,
+                "text": "Go ahead and show your work on the whiteboard.",
+                "time": "18:43",
+                "user": "tutor"
+            },
+            {
+                "id": 50,
+                "text": "Great effort so far! Keep going.",
+                "time": "18:54",
+                "user": "tutor"
+            },
+            {
+                "id": 51,
+                "text": "Please go through the question carefully.",
+                "time": "19:40",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "I would like you to work another problem. What is the value of 10 + 9?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "I would like you to work another problem. What is the value of 10 + 9?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "19?",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct! Good job.",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "provide_similar_problem",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4079053_56",
+        "lesson_topic": "3.4A.Understanding Multiplication",
+        "c_h": [
+            {
+                "id": 56,
+                "text": "The first factor in our multiplication problem is 7.",
+                "time": "19:01",
+                "user": "tutor"
+            },
+            {
+                "id": 57,
+                "text": "it is 147",
+                "time": "19:32",
+                "user": "student"
+            },
+            {
+                "id": 58,
+                "text": "How many total bears do you count in our array?",
+                "time": "19:48",
+                "user": "tutor"
+            },
+            {
+                "id": 59,
+                "text": "147",
+                "time": "21:00",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 60,
+                "text": "Please recheck your answer.",
+                "time": "21:10",
+                "user": "tutor"
+            },
+            {
+                "id": 61,
+                "text": "Let me help you with that.",
+                "time": "21:28",
+                "user": "tutor"
+            },
+            {
+                "id": 62,
+                "text": "The box has  3 toys inside.",
+                "time": "22:02",
+                "user": "tutor"
+            },
+            {
+                "id": 63,
+                "text": "So, 7 groups of 3 bears.",
+                "time": "22:20",
+                "user": "tutor"
+            },
+            {
+                "id": 64,
+                "text": "7 groups of 3 things make 21 total things.",
+                "time": "22:58",
+                "user": "tutor"
+            },
+            {
+                "id": 65,
+                "text": "Do you understand that step?",
+                "time": "23:49",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Let's look at a similar problem. If you have 2 boxes and each box has 3 toys in it, how many total toys do you have?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Let's look at a similar problem. If you have 2 boxes and each box has 3 toys in it, how many total toys do you have?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "6",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yes! And one way to get that answer is to multiply 2x3. So let's return to the bears, do you want to rethink your answer?",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "provide_similar_problem",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "6321463_47",
+        "lesson_topic": "5.5A.Graphing on a Coordinate Grid",
+        "c_h": [
+            {
+                "id": 47,
+                "text": "Would you like to give it a try?",
+                "time": "15:39",
+                "user": "tutor"
+            },
+            {
+                "id": 48,
+                "text": "3,2",
+                "time": "15:59",
+                "user": "student"
+            },
+            {
+                "id": 49,
+                "text": "Is this your final answer?",
+                "time": "16:43",
+                "user": "tutor"
+            },
+            {
+                "id": 50,
+                "text": "yes maam",
+                "time": "16:51",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 51,
+                "text": "Your answer is incorrect.",
+                "time": "17:03",
+                "user": "tutor"
+            },
+            {
+                "id": 52,
+                "text": "Plus 1 point for your good try.",
+                "time": "17:12",
+                "user": "tutor"
+            },
+            {
+                "id": 53,
+                "text": "Let me explain it to you.",
+                "time": "17:19",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Good try but let's look at the problem again. How many spaces is the point from the origin? Let's put our finger on the grid and count.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Good try but let's look at the problem again. How many spaces is the point from the origin? Let's put our finger on the grid and count.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "3 spaces to the right.",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yes and how many spaces up?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "5, so my answer is (3,5)",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Correct!",
+                "is_revised": true
+            }
+        ],
+        "e": "diagnose",
+        "z_what": "provide_strategy",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "6165981_43",
+        "lesson_topic": "4.6D.Classifying 2D Figures",
+        "c_h": [
+            {
+                "id": 43,
+                "text": "Correct answer.",
+                "time": "20:36",
+                "user": "tutor"
+            },
+            {
+                "id": 44,
+                "text": "Plus one point.",
+                "time": "20:42",
+                "user": "tutor"
+            },
+            {
+                "id": 45,
+                "text": "Did they three follow the right angle's rule?",
+                "time": "21:18",
+                "user": "tutor"
+            },
+            {
+                "id": 46,
+                "text": "no",
+                "time": "21:41",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 47,
+                "text": "Sorry, your answer is incorrect.",
+                "time": "22:05",
+                "user": "tutor"
+            },
+            {
+                "id": 48,
+                "text": "They follow the right angle rule.",
+                "time": "22:18",
+                "user": "tutor"
+            },
+            {
+                "id": 49,
+                "text": "Let me show you.",
+                "time": "22:25",
+                "user": "tutor"
+            },
+            {
+                "id": 50,
+                "text": "Since they all have one right angle.",
+                "time": "24:17",
+                "user": "tutor"
+            },
+            {
+                "id": 51,
+                "text": "Therefore, the answer is a right angle.",
+                "time": "24:42",
+                "user": "tutor"
+            },
+            {
+                "id": 52,
+                "text": "You have earned a point for your active participation.",
+                "time": "24:53",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Ah, let's take a closer look. Do they all have 90 degree angles?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Ah, let's take a closer look. Do they all have 90 degree angles?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "yes",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yeah, right angles are 90 degree angles",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Keep in mind that right angles look like the corners in a square",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "explain_concept",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "3982385_33",
+        "lesson_topic": "4.1A.Converting Units of Measure (Review) - 1",
+        "c_h": [
+            {
+                "id": 33,
+                "text": "Now, we got 10km / 1 * 0.621m / 1km.",
+                "time": "17:08",
+                "user": "tutor"
+            },
+            {
+                "id": 34,
+                "text": "Next, we need to find the value of 10 times 0.621.",
+                "time": "17:35",
+                "user": "tutor"
+            },
+            {
+                "id": 35,
+                "text": "What is the value of 10 times 0.621?",
+                "time": "17:47",
+                "user": "tutor"
+            },
+            {
+                "id": 36,
+                "text": "6,210",
+                "time": "18:29",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 37,
+                "text": "Good effort.",
+                "time": "18:47",
+                "user": "tutor"
+            },
+            {
+                "id": 38,
+                "text": "The value of 10 times 0.621 is 6.21.",
+                "time": "19:02",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! It looks like you multiplied 0.621 by 1000",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! It looks like you multiplied 0.621 by 1000",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "oh did i move it too much?",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Yes! you'll want to move the decimal the same number as the number of 0s.",
+                "is_revised": true
+            }
+        ],
+        "e": "right-idea",
+        "z_what": "provide_hint",
+        "z_why": "correct_mistake"
+    },
+    {
+        "c_id": "2979976_52",
+        "lesson_topic": "4.4D.Multiplying Multi-Digit by One-Digit Numbers (Review) - 1",
+        "c_h": [
+            {
+                "id": 52,
+                "text": "Use what we have practiced to complete the next few problems on your own.",
+                "time": "29:51",
+                "user": "tutor"
+            },
+            {
+                "id": 53,
+                "text": "Please use the whiteboard to justify your answer.",
+                "time": "30:23",
+                "user": "tutor"
+            },
+            {
+                "id": 54,
+                "text": "Is that your final answer?",
+                "time": "31:27",
+                "user": "tutor"
+            },
+            {
+                "id": 55,
+                "text": "yes",
+                "time": "31:36",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 56,
+                "text": "It looks like your answer is incorrect.",
+                "time": "31:42",
+                "user": "tutor"
+            },
+            {
+                "id": 57,
+                "text": "Not to worry, let me explain it to you.",
+                "time": "31:53",
+                "user": "tutor"
+            },
+            {
+                "id": 58,
+                "text": "What is 9 times 5?",
+                "time": "32:18",
+                "user": "tutor"
+            },
+            {
+                "id": 59,
+                "text": "Very good! Plus 1 point.",
+                "time": "32:59",
+                "user": "tutor"
+            },
+            {
+                "id": 60,
+                "text": "We need to add the remainder 1 with 45.",
+                "time": "33:10",
+                "user": "tutor"
+            },
+            {
+                "id": 61,
+                "text": "What is 45+1?",
+                "time": "33:14",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! When we multiply 19 by 5 we first need to multiply the 9 and 5",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! When we multiply 19 by 5 we first need to multiply the 9 and 5",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "45",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Perfect! Then, we will need to carry the tens place",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "explain_concept",
+        "z_why": "understand_topic"
+    },
+    {
+        "c_id": "4110589_12",
+        "lesson_topic": "3.6C.Area with side lengths",
+        "c_h": [
+            {
+                "id": 12,
+                "text": "The area in maths is the amount of space taken up by a 2D shape.",
+                "time": "08:21",
+                "user": "tutor"
+            },
+            {
+                "id": 13,
+                "text": "Area of Rectangle Formula is length (l) multiplied by width (w).",
+                "time": "09:17",
+                "user": "tutor"
+            },
+            {
+                "id": 14,
+                "text": "What is the length of the rectangle?",
+                "time": "09:27",
+                "user": "tutor"
+            },
+            {
+                "id": 15,
+                "text": "4 ft",
+                "time": "09:51",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 16,
+                "text": "That was a good try.",
+                "time": "10:12",
+                "user": "tutor"
+            },
+            {
+                "id": 17,
+                "text": "Plus 1 point.",
+                "time": "10:18",
+                "user": "tutor"
+            },
+            {
+                "id": 18,
+                "text": "The length of the rectangleis 6 feet.",
+                "time": "10:43",
+                "user": "tutor"
+            },
+            {
+                "id": 19,
+                "text": "The width of the rectangle is 4 feet.",
+                "time": "11:34",
+                "user": "tutor"
+            },
+            {
+                "id": 20,
+                "text": "What is the value of 6 multiplied by 4?",
+                "time": "11:59",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great! You can use either side as the length or width",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great! You can use either side as the length or width",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "ok",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "What is the width of the rectangle?",
+                "is_revised": true
+            }
+        ],
+        "e": "imprecise",
+        "z_what": "affirm_correct_answer",
+        "z_why": "motivate_student"
+    },
+    {
+        "c_id": "4177924_72",
+        "lesson_topic": "3.2G.Multiples of Ten",
+        "c_h": [
+            {
+                "id": 72,
+                "text": "Thats good try.",
+                "time": "41:24",
+                "user": "tutor"
+            },
+            {
+                "id": 73,
+                "text": "Please recheck your answer once.",
+                "time": "41:38",
+                "user": "tutor"
+            },
+            {
+                "id": 74,
+                "text": "Are you connected with me?",
+                "time": "42:37",
+                "user": "tutor"
+            },
+            {
+                "id": 75,
+                "text": "yes",
+                "time": "42:48",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 76,
+                "text": "Please recheck your answer once.",
+                "time": "43:16",
+                "user": "tutor"
+            },
+            {
+                "id": 77,
+                "text": "Please recheck your answer once.",
+                "time": "44:00",
+                "user": "tutor"
+            },
+            {
+                "id": 78,
+                "text": "We're running out of time. But, great work today!",
+                "time": "44:29",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Ok, it looks like you would like to be done for today.",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Ok, it looks like you would like to be done for today.",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "Yes",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Have a great night!",
+                "is_revised": true
+            }
+        ],
+        "e": "Student ending session\n",
+        "z_what": "End session",
+        "z_why": "End session"
+    },
+    {
+        "c_id": "2939685_28",
+        "lesson_topic": "3.4H.Understanding Division",
+        "c_h": [
+            {
+                "id": 28,
+                "text": "Your answer is correct plus 1 point!",
+                "time": "19:11",
+                "user": "tutor"
+            },
+            {
+                "id": 29,
+                "text": "What would the division expression be for this problem?",
+                "time": "19:49",
+                "user": "tutor"
+            },
+            {
+                "id": 30,
+                "text": "Are you working on it?",
+                "time": "20:53",
+                "user": "tutor"
+            },
+            {
+                "id": 31,
+                "text": "32",
+                "time": "21:00",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 32,
+                "text": "That was a good effort.",
+                "time": "21:22",
+                "user": "tutor"
+            },
+            {
+                "id": 33,
+                "text": "Let me help you.",
+                "time": "21:29",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Great try! That is the answer, but what expression gives us 32?",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Great try! That is the answer, but what expression gives us 32?",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "64/2?",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "Great job!",
+                "is_revised": true
+            }
+        ],
+        "e": "guess",
+        "z_what": "ask_question",
+        "z_why": "signal_goal"
+    },
+    {
+        "c_id": "2928305_68",
+        "lesson_topic": "4.2C.Multiplicative Comparisons",
+        "c_h": [
+            {
+                "id": 68,
+                "text": "brb",
+                "time": "37:38",
+                "user": "student"
+            },
+            {
+                "id": 69,
+                "text": "Please let me know when you are back.",
+                "time": "37:56",
+                "user": "tutor"
+            },
+            {
+                "id": 70,
+                "text": "Are you back?",
+                "time": "39:48",
+                "user": "tutor"
+            },
+            {
+                "id": 71,
+                "text": "yes i gtg i will be back tomorrow",
+                "time": "41:46",
+                "user": "student"
+            }
+        ],
+        "c_r": [
+            {
+                "id": 72,
+                "text": "Thank you for your efforts today.",
+                "time": "43:17",
+                "user": "tutor"
+            },
+            {
+                "id": 73,
+                "text": "Please fill in the feedback form as you leave. See you next time.",
+                "time": "43:25",
+                "user": "tutor"
+            }
+        ],
+        "c_r_": [
+            {
+                "user": "tutor",
+                "text": "Ok have a great night!",
+                "is_revised": true
+            }
+        ],
+        "c_revision": [
+            {
+                "user": "tutor",
+                "text": "Ok have a great night!",
+                "is_revised": true
+            },
+            {
+                "user": "student",
+                "text": "bye",
+                "is_revised": true
+            },
+            {
+                "user": "tutor",
+                "text": "bye",
+                "is_revised": true
+            }
+        ],
+        "e": "End session\n",
+        "z_what": "End session",
+        "z_why": "End session\n"
+    }
+]

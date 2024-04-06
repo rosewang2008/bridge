@@ -1,0 +1,11 @@
+Top 10 bigrams:
+lets_closer: 3.27
+closer_look: 3.27
+right_track: 2.49
+youre_right: 2.09
+look_answer: 1.7
+great_job: 1.67
+mistake_calculating: 1.56
+like_misinterpreted: 1.56
+calculating_product: 1.56
+look_number: 1.55

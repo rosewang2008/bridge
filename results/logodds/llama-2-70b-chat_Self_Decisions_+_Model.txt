@@ -1,0 +1,11 @@
+Top 10 bigrams:
+user_student: 5.79
+student_responds: 4.65
+student_understand: 4.0
+response_provide: 3.85
+provide_hint: 3.09
+help_student: 3.0
+response_ask: 2.81
+student_misinterpreted: 2.76
+ask_question: 2.76
+question_correct: 2.7

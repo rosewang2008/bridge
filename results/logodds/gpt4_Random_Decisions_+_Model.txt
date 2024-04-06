@@ -1,0 +1,11 @@
+Top 10 bigrams:
+good_try: 1.82
+start_remember: 1.58
+thats_right: 1.57
+try_again: 1.54
+thats_good: 1.43
+lets_break: 1.37
+glasses_water: 1.3
+for_example: 1.3
+times_equals: 1.3
+represents_glasses: 1.29

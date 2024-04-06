@@ -1,0 +1,11 @@
+Top 10 bigrams:
+lets_closer: 2.76
+closer_look: 2.68
+effort_lets: 2.55
+appreciate_effort: 2.29
+correct_solution: 2.19
+look_problem: 2.18
+great_effort: 1.62
+lets_steps: 1.55
+need_help: 1.55
+let_know: 1.55

@@ -1,0 +1,11 @@
+Top 10 bigrams:
+can_explain: 2.14
+great_start: 1.94
+can_tell: 1.88
+explain_got: 1.53
+got_answer: 1.42
+pieces_candy: 1.26
+remember_precise: 1.26
+tutor_great: 1.26
+can_simplify: 1.26
+explain_determined: 1.26

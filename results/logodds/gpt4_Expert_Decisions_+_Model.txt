@@ -1,0 +1,11 @@
+Top 10 bigrams:
+steps_took: 2.04
+review_concept: 1.66
+understand_concept: 1.56
+help_understand: 1.56
+explain_steps: 1.56
+took_arrive: 1.56
+lets_step: 1.51
+better_understand: 1.31
+ones_place: 1.31
+number_sides: 1.31

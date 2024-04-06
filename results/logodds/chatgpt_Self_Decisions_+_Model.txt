@@ -1,0 +1,11 @@
+Top 10 bigrams:
+actually_correct: 2.9
+correct_answer: 1.96
+job_attempting: 1.42
+small_mistake: 1.42
+attempting_problem: 1.42
+number_baseballs: 1.37
+problem_figure: 1.37
+like_misunderstood: 1.37
+problem_remember: 1.37
+however_question: 1.37

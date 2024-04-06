@@ -1,0 +1,11 @@
+Top 10 bigrams:
+thats_close: 1.85
+example_help: 1.69
+can_think: 1.51
+can_try: 1.51
+glasses_water: 1.47
+pencils_notebooks: 1.47
+numbers_need: 1.2
+noticed_answer: 1.2
+correct_formula: 1.2
+like_missed: 1.2

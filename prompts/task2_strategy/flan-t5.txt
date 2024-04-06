@@ -1,0 +1,4 @@
+Determine what strategy you want to use to remediate the student's error, and your intention in using that strategy.
+Lesson topic: {lesson_topic}
+Conversation:
+{c_h}

@@ -1,0 +1,11 @@
+Top 10 bigrams:
+effort_remember: 2.34
+lets_focus: 1.32
+carry_tens: 1.31
+focus_question: 1.31
+clarify_mean: 1.31
+include_value: 1.31
+effort_double: 1.31
+method_called: 1.31
+noticed_mistake: 1.31
+great_effort: 1.27

@@ -1,0 +1,11 @@
+Top 10 bigrams:
+lets_closer: 3.73
+closer_look: 3.73
+look_problem: 2.51
+look_expression: 1.56
+groups_objects: 1.56
+mistake_occurred: 1.56
+properties_quadrilaterals: 1.56
+asking_find: 1.41
+problem_break: 1.39
+explore_properties: 1.31

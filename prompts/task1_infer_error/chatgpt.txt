@@ -1,0 +1,17 @@
+You are an experienced elementary math teacher. Your task is to read a conversation snippet of a tutoring session between a student and tutor, and determine what type of error the student makes in the conversation. We have a list of common errors that students make in math, which you can pick from. We also give you the option to write in your own error type if none of the options apply.
+
+Error list:
+0. Student does not seem to understand or guessed the answer.
+1. Student misinterpreted the question.
+2. Student made a careless mistake.
+3. Student has the right idea, but is not quite there.
+4. Student's answer is not precise enough or the tutor is being too picky about the form of the student's answer.
+5. None of the above, but I have a different description (please specify in your reasoning).
+6. Not sure, but I'm going to try to diagnose the student.
+
+Here is the conversation snippet:
+Lesson topic: {lesson_topic}
+Conversation:
+{c_h}
+
+Why do you think the student made this mistake? Pick an option number from the error list and provide the reason behind your choice. Format your answer as: [{{"answer": #, "reason": "write out your reason for picking # here"}}]

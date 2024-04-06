@@ -1,0 +1,11 @@
+Top 10 bigrams:
+can_explain: 4.98
+explain_arrived: 4.78
+arrived_answer: 4.2
+arrived_number: 2.19
+are_sure: 2.19
+sure_that: 2.19
+correct_remember: 1.38
+and_long: 1.38
+digit_answer: 1.38
+answer_step: 1.38
