@@ -147,13 +147,10 @@ Note: The log odds code might produce a slightly different order because some te
 If you find our work or dataset useful, please consider citing it! 
 
 ```
+
 @inproceedings{wang-etal-2024-bridging,
-    title = "Bridging the Novice-Expert Gap via Models of Decision-Making: A Case Study on Remediating Math Mistakes"
-    author = "Wang, Rose E.  and
-        Zhang, Qingyang  and
-        Robinson, Carly  and
-        Loeb, Susanna  and
-        Demszky, Dorottya",
+    title = {Bridging the Novice-Expert Gap via Models of Decision-Making: A Case Study on Remediating Math Mistakes},
+    author = {Wang, Rose E. and Zhang, Qingyang and Robinson, Carly and Loeb, Susanna and Demszky, Dorottya},
     booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics",
     month = jul,
     year = "2024",
