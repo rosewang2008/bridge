@@ -1,6 +1,12 @@
 # 🌁 Bridging the Novice-Expert Gap via Models of Decision-Making
 
-[Paper Link](https://arxiv.org/abs/2310.10648)
+<!-- Center and enlarge the main links -->
+<p align="center" style="font-size: 1.5em;">
+    <a href="https://arxiv.org/abs/2310.10648">Paper</a> •
+    <a href="https://huggingface.co/datasets/rose-e-wang/bridge">HuggingFace</a> •
+    <a href="https://www.youtube.com/watch?v=bX5monUe93M">Video</a> •
+    <a href="#citation">Citation</a>
+</p>
 
 **NAACL 2024**
 
@@ -9,6 +15,9 @@
 **Authors:** Rose E. Wang, Qingyang Zhang, Carly Robinson, Susanna Loeb, Dorottya Demszky
 
 **Main Idea: We contribute Bridge 🌁, a method that uses cognitive task analysis to translate an expert's implicit thought process into an explicit decision-making model**.
+
+*Bridge's output: Expert thought processes*
+![Expert thoughts](assets/fig1_thoughts.png)
 
 Scaling high-quality tutoring remains a major challenge in education.
 Due to growing demand, many platforms employ novice tutors who, unlike experienced educators, struggle to address student mistakes and thus fail to seize prime learning opportunities.
